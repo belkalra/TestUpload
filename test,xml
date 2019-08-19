@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="1" name="pytest" skipped="0" tests="2" time="60.673"><testcase classname="Controllers.Patient.test_ControllerPatientAdd.TestController1" file="Controllers\Patient\test_ControllerPatientAdd.py" line="120" name="test_TestBasicPatientData" time="44.489"><system-out>Ensure control exists
+CommonReturnsDefined.ControlFound
+Running Test 1
+Ensure control exists
+Login Attempt Username:AgAdminSL
+Login Attempt Passphrase:Admincourse1073!
+Verify the Username control exists 
+Success - Username control found
+Control found - Web object returned
+&lt;ApolloStaticReturnVariables.ClassApolloCommonReturns object at 0x04339B30&gt;
+Check Spinner
+Web wait spinner not found
+Check Terms
+Terms of Use Decline button not found
+ApolloCommonReturnsDefined.TermsOfUseNotFound
+Check if Logged in
+User logged in
+Ensure control exists
+Spinner no longer found
+Ensure control exists
+Spinner no longer found
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+I made it through the patient
+Now logout and close the browser
+Ensure control exists
+Ensure control exists
+Logout clicked
+</system-out></testcase><testcase classname="Controllers.Patient.test_ControllerPatientAdd.TestController1" file="Controllers\Patient\test_ControllerPatientAdd.py" line="116" name="test_TestMissingRequiredPatientData" time="15.837"><failure message="Exception: screw this noise">self = &lt;test_ControllerPatientAdd.TestController1 testMethod=test_TestMissingRequiredPatientData&gt;
+
+    def test_TestMissingRequiredPatientData(self):
+&gt;       raise Exception(&apos;screw this noise&apos;)
+E       Exception: screw this noise
+
+Controllers\Patient\test_ControllerPatientAdd.py:118: Exception</failure><system-out>Ensure control exists
+CommonReturnsDefined.ControlFound
+Now logout and close the browser
+Ensure control exists
+Control not found
+Control not found
+</system-out></testcase></testsuite>
