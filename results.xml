@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="PADV-MS-D2" name="pytest" skipped="0" tests="3" time="133.764" timestamp="2019-09-10T10:56:01.955081"><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="82" name="test_Facility1" time="44.894"><system-out>Ensure control exists
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="PADV-MS-D2" name="pytest" skipped="0" tests="3" time="144.782" timestamp="2019-09-10T14:10:55.879304"><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="82" name="test_Facility1" time="54.022"><system-out>Ensure control exists
 Ensure control exists
 Ensure control exists
 Ensure control exists
@@ -29,7 +29,7 @@ Ensure control exists
 Spinner no longer found
 Ensure control exists
 Ensure control exists
-</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="85" name="test_Facility2" time="41.727"><system-out>Ensure control exists
+</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="85" name="test_Facility2" time="46.480"><system-out>Ensure control exists
 Ensure control exists
 Ensure control exists
 Ensure control exists
@@ -57,10 +57,10 @@ Ensure control exists
 Ensure control exists
 Ensure control exists
 Ensure control exists
-Web wait spinner not found
+Spinner no longer found
 Ensure control exists
 Ensure control exists
-</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="88" name="test_Facility3" time="46.876"><system-out>Ensure control exists
+</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="88" name="test_Facility3" time="43.959"><system-out>Ensure control exists
 Ensure control exists
 Ensure control exists
 Ensure control exists
