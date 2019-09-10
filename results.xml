@@ -1,35 +1,4 @@
-Bill Hader as played by Barry<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="PADV-MS-D2" name="pytest" skipped="0" tests="3" time="135.180" timestamp="2019-09-09T18:41:28.451193"><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="82" name="test_Facility1" time="42.054"><system-out>Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Clicking System Settings
-Spinner no longer found
-Ensure control exists
-Clicking Facility
-Spinner no longer found
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Clicking Home
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Clicking Mobile
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Ensure control exists
-Web wait spinner not found
-Ensure control exists
-Ensure control exists
-</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="85" name="test_Facility2" time="45.511"><system-out>Ensure control exists
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="PADV-MS-D2" name="pytest" skipped="0" tests="3" time="138.547" timestamp="2019-09-10T10:04:48.400799"><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="82" name="test_Facility1" time="46.737"><system-out>Ensure control exists
 Ensure control exists
 Ensure control exists
 Ensure control exists
@@ -60,7 +29,38 @@ Ensure control exists
 Spinner no longer found
 Ensure control exists
 Ensure control exists
-</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="88" name="test_Facility3" time="47.130"><system-out>Ensure control exists
+</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="85" name="test_Facility2" time="44.082"><system-out>Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Clicking System Settings
+Spinner no longer found
+Ensure control exists
+Clicking Facility
+Spinner no longer found
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Clicking Home
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Clicking Mobile
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Ensure control exists
+Spinner no longer found
+Ensure control exists
+Ensure control exists
+</system-out></testcase><testcase classname="Controllers.Facility.ControllerNewFacilityAdd.ControllerFacilityAdd" file="Controllers\Facility\ControllerNewFacilityAdd.py" line="88" name="test_Facility3" time="47.465"><system-out>Ensure control exists
 Ensure control exists
 Ensure control exists
 Ensure control exists
